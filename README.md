@@ -33,8 +33,8 @@ Feature engineering:
 
 - Removed redundant columns after consistency checks
 
-- Loaded cleaned data into PostgreSQL for further analysis
-## 🛢️ Data Analysis (SQL – PostgreSQL)
+- Loaded cleaned data into MySQL Workbench for further analysis
+## 🛢️ Data Analysis (SQL – MySQL Workbench)
 
 Business-focused SQL queries were used to analyze:
 
@@ -84,7 +84,7 @@ An interactive Power BI dashboard was created to visualize:
 
 - Python (pandas)
 
-- PostgreSQL (SQL)
+- MySQL Workbench (SQL)
 
 - Power BI
 
