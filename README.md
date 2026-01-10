@@ -69,7 +69,8 @@ An interactive Power BI dashboard was created to visualize:
 
 - Subscription and discount insights
 
-<img width="1347" height="735" alt="Screenshot 2026-01-06 200357" src="https://github.com/user-attachments/assets/2fc813be-7e7d-4468-b76b-70e9fd2794aa" />
+<img width="1346" height="732" alt="Screenshot 2026-01-10 112608" src="https://github.com/user-attachments/assets/b3b65fd2-6fd9-4075-8318-33d2f0b04d54" />
+
 
 ## 💡 Business Recommendations
 
