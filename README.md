@@ -2,6 +2,9 @@
 ## 📌 Project Overview
 
 This project analyzes customer shopping behavior using transactional data from 3,900 purchases across multiple product categories. The objective is to uncover insights into customer spending patterns, product preferences, subscription behavior, and discount usage to support data-driven business decisions.
+
+<img width="1143" height="517" alt="Screenshot 2025-12-06 095923" src="https://github.com/user-attachments/assets/8938b1cb-1b86-45ec-8902-c22bb47be370" />
+
 ## 📂 Dataset Summary
 
 Rows: 3,900
