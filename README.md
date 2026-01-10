@@ -68,6 +68,9 @@ An interactive Power BI dashboard was created to visualize:
 - Product performance
 
 - Subscription and discount insights
+
+<img width="1347" height="735" alt="Screenshot 2026-01-06 200357" src="https://github.com/user-attachments/assets/2fc813be-7e7d-4468-b76b-70e9fd2794aa" />
+
 ## 💡 Business Recommendations
 
 - Promote subscription plans with exclusive benefits
