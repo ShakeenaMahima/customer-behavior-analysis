@@ -96,3 +96,5 @@ An interactive Power BI dashboard was created to visualize:
 - Power BI
 
 - Jupyter Notebook
+
+- Gamma (AI Tool for presentation)
