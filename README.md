@@ -42,24 +42,35 @@ Feature engineering:
 Business-focused SQL queries were used to analyze:
 
 - Revenue by gender
+  <img width="271" height="135" alt="Screenshot 2026-01-12 211832" src="https://github.com/user-attachments/assets/2b70bdc3-9da7-45ef-adac-3732a5ec3dca" />
 
 - High-spending discount users
+<img width="304" height="466" alt="Screenshot 2026-01-12 211839" src="https://github.com/user-attachments/assets/1c71e174-b307-4693-b7f8-8ecc8ace1e72" />
 
 - Top-rated products
+<img width="463" height="245" alt="Screenshot 2026-01-12 211851" src="https://github.com/user-attachments/assets/fc229fa3-4d4c-4559-9512-d4c74ab3cd18" />
 
 - Shipping type impact on spending
+<img width="319" height="125" alt="Screenshot 2026-01-12 211901" src="https://github.com/user-attachments/assets/0f503826-03b7-4226-a7ea-0276f6efcb89" />
 
 - Subscriber vs non-subscriber behavior
+<img width="599" height="112" alt="Screenshot 2026-01-12 211915" src="https://github.com/user-attachments/assets/9cf16a20-8a17-4604-be0e-c4e3280a677d" />
 
 - Discount-dependent products
+<img width="378" height="236" alt="Screenshot 2026-01-12 211927" src="https://github.com/user-attachments/assets/a7317a11-1bdc-4143-8721-4f7f7786dc8e" />
 
 - Customer segmentation (New, Returning, Loyal)
+<img width="484" height="161" alt="Screenshot 2026-01-12 211935" src="https://github.com/user-attachments/assets/2c138f61-9c74-4cdc-9fe1-58dbf3b710e8" />
 
 - Top products per category
+<img width="602" height="439" alt="Screenshot 2026-01-12 211951" src="https://github.com/user-attachments/assets/165ca7e4-fff7-48f6-b487-000f5efc06ae" />
 
 - Subscription trends among repeat buyers
+<img width="419" height="125" alt="Screenshot 2026-01-12 212000" src="https://github.com/user-attachments/assets/24b04bc3-1005-40cf-9f0a-506e3f54ab65" />
 
 - Revenue contribution by age group
+  <img width="339" height="199" alt="Screenshot 2026-01-12 212010" src="https://github.com/user-attachments/assets/965dcb44-4d45-4892-9c18-5e91fb09fd51" />
+
 ## 📈 Dashboard (Power BI)
 
 An interactive Power BI dashboard was created to visualize:
