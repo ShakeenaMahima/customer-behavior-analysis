@@ -46,6 +46,7 @@ Business-focused SQL queries were used to analyze:
 <img width="271" height="135" alt="Screenshot 2026-01-12 211832" src="https://github.com/user-attachments/assets/2b70bdc3-9da7-45ef-adac-3732a5ec3dca" />
 
 
+
 - High-spending discount users
 
 <img width="304" height="466" alt="Screenshot 2026-01-12 211839" src="https://github.com/user-attachments/assets/1c71e174-b307-4693-b7f8-8ecc8ace1e72" />
